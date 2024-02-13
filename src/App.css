@@ -92,12 +92,12 @@ img{
   display:none;
 } */
 
-.carousel-inner{
+/* .carousel-inner{
   rotate: -10deg;
     border-radius: 4px;
     width: 280px;
     box-shadow: 9px 8px 10px;
-}
+} */
 
 .btn-primary{
   border-style:none;

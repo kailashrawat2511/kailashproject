@@ -31,7 +31,7 @@ function Card() {
           <div className='row'>
                <div className='col-sm-3'>
                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
+  <div class="carousel-inner"style={{rotate:'-10deg',borderRadius:'4px',width:'280px',boxShadow:' 9px 8px 10px'}}>
     <div class="carousel-item active">
       <img src="/images/marriage5.jpeg" class="d-block w-100" alt="..."/>
     </div>
